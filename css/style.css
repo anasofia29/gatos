@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(https://w0.peakpx.com/wallpaper/644/207/HD-wallpaper-gatos-xd-bonito.jpg);
+    font-family: sans-serif;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-size: 50%;
+}
+
+.texto {
+    text-align: justify;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.imagen:hover {
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    box-shadow: 0px 0px 15px 15px #ec731e;
+    -webkit-box-shadow: 0px 0px 15px 15px #ec731e;
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+}
+
+.imagen:hover {
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    box-shadow: 0px 0px 15px 15px #ec731e;
+    -webkit-box-shadow: 0px 0px 15px 15px #ec731e;
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+}
+
+.titulo {
+    padding: 2px 2px;
+    background-color: rgba(217, 70, 236, 0.459);
+}
+
+.h2 {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 20px;
+    color: #000000;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: rgba(63, 212, 223, 0.459);
+    border-color: #00000091;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 35px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.botonn {
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: rgba(153, 50, 204, 0.5);
+    color: #000000;
+    padding: 5px;
+    font-weight: 600;
+    border-color: rgba(180, 22, 22, 0.534);
+}
